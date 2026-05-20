@@ -7,7 +7,7 @@ WearAbouts Lite is a lightweight mobile application that helps users manage thei
 ## 📱 Screenshots
 
 Splash
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/54fd2a94-1ba3-4150-9ec8-55bf0d53b30b" />
+<img width="1080" height="2310" alt="image" src="https://github.com/user-attachments/assets/54fd2a94-1ba3-4150-9ec8-55bf0d53b30b" />
 
 Home 
 <img width="1080" height="2310" alt="image" src="https://github.com/user-attachments/assets/182b69f3-513b-450d-b995-1b0e0cef59dd" />
