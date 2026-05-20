@@ -125,7 +125,6 @@ wearabouts-lite/
 ├── pubspec.yaml
 └── README.md
 ```
-Download the App APK Here - sha256:666f93591c21986ec7f1be29ef2f771a88503862882087866d4f053bfbdd6a83
 
 👩‍💻 Author
 
